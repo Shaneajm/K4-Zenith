@@ -25,7 +25,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-> [!Notice]
+> [!NOTE]
 > As KitsuneLab has closed operations, this fork will exist to provide compatibility and continue to provide updates. Feel free to contribute to the project to keep it alive for the servers that have it in use.
 
 ## Fork Roadmap
