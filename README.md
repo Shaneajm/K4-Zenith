@@ -10,29 +10,28 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/K4ryuu/K4-Zenith">
-    <img src="https://i.imgur.com/sej1ZzD.png" alt="Logo" width="400" height="256">
-  </a>
-  <h3 align="center">CounterStrike2 | K4-Zenith</h3>
+  <h3 align="center">CounterStrike 2 | K4-Zenith</h3>
   <p align="center">
     K4-Zenith is a core plugin, that allow developers to create their own modules without having to struggle with database connections, player data, etc. It's a really easy to use plugin, with a lot of features and a lot of possibilities. Additionally we provide some official modules for Zenith, to empover your server with more features and high standards.
     <br />
-    <a href="https://github.com/K4ryuu/K4-Zenith/releases">Download</a>
+    <a href="https://github.com/shaneajm/K4-Zenith/releases">Download</a>
     ·
-    <a href="https://github.com/K4ryuu/K4-Zenith/issues/new?assignees=K4ryuu&labels=bug&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
+    <a href="https://github.com/shaneajm/K4-Zenith/issues/new?assignees=shaneajm&labels=bug&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
     ·
-    <a href="https://github.com/K4ryuu/K4-Zenith/issues/new?assignees=K4ryuu&labels=enhancement&template=feature_request.md&title=%5BREQ%5D">Request Feature</a>
-     ·
-    <a href="https://kitsune-lab.com">Website</a>
-     ·
-    <a href="https://kitsune-lab.com/tickets/create?department_id=2">Hire Us</a>
+    <a href="https://github.com/shaneajm/K4-Zenith/issues/new?assignees=shaneajm&labels=enhancement&template=feature_request.md&title=%5BREQ%5D">Request Feature</a>
   </p>
 </div>
 
-> [!WARNING]
-> The plugin is still in development and may contain bugs. Please report any bugs you find in the [issues](https://github.com/K4ryuu/K4-Zenith/issues) section.
 
 <!-- ABOUT THE PROJECT -->
+
+> [!Notice]
+> As KitsuneLab has closed operations, this fork will exist to provide compatibility and continue to provide updates. Feel free to contribute to the project to keep it alive for the servers that have it in use.
+
+## Fork Roadmap
+- [ ] Port Menu System to [T3Menu-API](https://github.com/T3Marius/T3Menu-API) 
+- [ ] Ensure Support with Latest versions of CounterStrikeSharp
+- [ ] Zenith Stats: Allow table prefixes to segment stats.
 
 ## About The Project
 
@@ -125,28 +124,13 @@ These configuration files are made with YAML, which results in that we add descr
 > [!CAUTION]
 > To avoid any issues, please only modify the `currentValue` in the config files and refrain from making any other changes.
 
-<!-- ROADMAP -->
-
-## Roadmap
-
-- [ ] Optimise functions to call less var allocations
-- [ ] Example developer files
-- [ ] Wall toplists using placeholders from core
-- [ ] Admin Menu
-- [ ] Vote Manager module
-- [ ] Game management system + connect messages
-- [ ] Map management system
-- [ ] Module to check last week / month / year playtime
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## Authors
 
 - [**K4ryuu**](https://github.com/K4ryuu) - _Initial work_
 
-See also the list of [contributors](https://github.com/K4ryuu/K4-Zenith/graphs/contributors) who participated in this project as an outside contributor.
+See also the list of [contributors](https://github.com/Shaneajm/K4-Zenith/graphs/contributors) who participated in this project as an outside contributor.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,13 +139,5 @@ See also the list of [contributors](https://github.com/K4ryuu/K4-Zenith/graphs/c
 ## License
 
 Distributed under the GPL-3.0 License. See `LICENSE.md` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
-## Contact
-
-- **KitsuneLab Team** - [contact@kitsune-lab.com](mailto:contact@kitsune-lab.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
